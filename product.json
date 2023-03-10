@@ -1,0 +1,31 @@
+[
+    {
+        "ProductId":101,
+"ProductName":"hp",
+"Price":50000,
+"Quantity":2
+    },
+    {
+        "ProductId":102,
+"ProductName":"Dell",
+"Price":50000,
+"Quantity":2
+    },
+    {
+        "ProductId":103,
+"ProductName":"Asus",
+"Price":50000,
+"Quantity":2
+    },
+    {
+        "ProductId":104,
+"ProductName":"Lenova",
+"Price":50000,
+"Quantity":2
+    },{
+        "ProductId":105,
+"ProductName":"Acer",
+"Price":50000,
+"Quantity":2
+    }
+]
